@@ -92,11 +92,3 @@ To run Tests:
     - For server tests, make sure the server not is started or running before you run the tests. This may cause jest to hang or become a zombie process.
 
 Both the client and server use `jest` as their testing framework of choice. The client tests also use the `react-scripts` library that supersets jest to work better within react.
-
-## Architecture:
-
-This application 
-
-Server Architecture:
-
-Client Architecture:
