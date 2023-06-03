@@ -31,7 +31,7 @@ function App() {
             fetchData: response.data,
             reviewUpdate: ''
         })
-    })
+    }).catch((e) => {})
   }, []);
 
   /**********************************************
